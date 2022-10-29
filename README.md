@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wrimo
+- 👋 Hi, I’m Brennan
 - I'm currently a CS major at Lipscomb University. 
 - You can play my games over at: https://wrimor.itch.io/ 
 <!---
